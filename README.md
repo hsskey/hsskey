@@ -8,7 +8,7 @@
   Notable contributions include:
   - [es-toolkit](https://github.com/toss/es-toolkit/issues?q=sort%3Aupdated-desc+involves%3Ahsskey)
   - [hidash](https://github.com/naverpaydev/hidash/issues?q=sort%3Aupdated-desc+involves%3Ahsskey)
-  - [Mantine](https://github.com/mantinedev/mantine)
+  - [Mantine](https://github.com/mantinedev/mantine/issues?q=sort%3Aupdated-desc+involves%3Ahsskey)
 - 📫 How to reach me: [@hsskey](https://github.com/hsskey) on GitHub | [LinkedIn](https://www.linkedin.com/in/joon90/)
 
 
