@@ -6,8 +6,8 @@
 - 🛠️ I’ve built a [TurboRepo Starter Kit](https://github.com/hsskey/turbo-start-kit) to showcase my coding style
 - 🌍 I actively contribute to open source projects to give back and grow with the community.  
   Notable contributions include:
-  - [es-toolkit](https://github.com/toss/es-toolkit)
-  - [hidash](https://github.com/naverpaydev/hidash)
+  - [es-toolkit]([https://github.com/toss/es-toolkit](https://github.com/toss/es-toolkit/issues?q=sort%3Aupdated-desc+involves%3Ahsskey))
+  - [hidash]([https://github.com/naverpaydev/hidash](https://github.com/naverpaydev/hidash/issues?q=sort%3Aupdated-desc+involves%3Ahsskey))
   - [Mantine](https://github.com/mantinedev/mantine)
 - 📫 How to reach me: [@hsskey](https://github.com/hsskey) on GitHub | [LinkedIn](https://www.linkedin.com/in/joon90/)
 
