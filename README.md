@@ -4,6 +4,7 @@
 - 🌱 I’m always exploring innovative solutions to enhance frontend architecture and team productivity.
 - 👯 I’m looking to collaborate on projects that involve handling large-scale traffic or contributing to global web services.
 - 🛠️ I’ve built a [TurboRepo Starter Kit](https://github.com/hsskey/turbo-start-kit) to showcase my coding style
+- 📚 I'm currently participating in a weekly LeetCode [Blind 75 study group](https://github.com/DaleStudy/leetcode-study/issues?q=sort%3Aupdated-desc+involves%3Ahsskey) to sharpen my coding skills and actively collaborate through code reviews.
 - 🌍 I actively contribute to open source projects to give back and grow with the community.  
   Notable contributions include:
   - [es-toolkit](https://github.com/toss/es-toolkit/issues?q=sort%3Aupdated-desc+involves%3Ahsskey)
