@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Sungjoon Lee
 
-- 🔭 I’m currently working at NC IDS, focusing on building design systems and web services.
+- 🔭 I’m currently working at NC IDS, enhancing AI-driven development productivity and building scalable web services.
 - 🌱 I’m always exploring innovative solutions to enhance frontend architecture and team productivity.
 - 👯 I’m looking to collaborate on projects that involve handling large-scale traffic or contributing to global web services.
 - 🛠️ I’ve built a [TurboRepo Starter Kit](https://github.com/hsskey/turbo-start-kit) to showcase my coding style
