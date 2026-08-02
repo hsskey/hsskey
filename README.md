@@ -4,8 +4,6 @@ Frontend engineer focused on reliable user workflows and developer experience.
 
 Recent work spans AI voice editing and generation, design systems, and frontend infrastructure.
 
-**Open source:** [es-toolkit](...) · [hidash](...) · [Mantine](...)
-
 **Community:** [FEConf](https://feconf.kr/) organizer since 2021
 
 [LinkedIn](https://www.linkedin.com/in/joon90/)
