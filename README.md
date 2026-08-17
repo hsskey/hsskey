@@ -6,9 +6,6 @@ Recent work spans AI voice editing and generation, design systems, and frontend 
 
 **Community:** [FEConf](https://feconf.kr/) organizer since 2021
 
-[LinkedIn](https://www.linkedin.com/in/joon90/)
-
-
 
 
 <!--
