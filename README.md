@@ -1,6 +1,6 @@
 # Sung Joon Lee
 
-Frontend engineer focused on reliable user workflows and developer experience.
+Software Engineer, always challenging the familiar.
 
 Recent work spans AI voice editing and generation, design systems, and frontend infrastructure.
 
